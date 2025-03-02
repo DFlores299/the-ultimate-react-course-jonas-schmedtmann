@@ -7,6 +7,3 @@ createRoot(document.getElementById("root")).render(
     <App />
   </StrictMode>
 );
-
-npm install eslint vite-pluging-eslint eslint-config-react-app --save-dev
-.eslintrc.json
