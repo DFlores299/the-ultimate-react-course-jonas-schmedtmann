@@ -35,7 +35,7 @@ function City() {
         <h6>City name</h6>
         <h3>
           <span>
-            <img src={flagemojiToPNG(emoji)} alt="flag" />
+            {emoji ? <img src={flagemojiToPNG(emoji)} alt="flag" /> : ""}
           </span>{" "}
           {cityName}
         </h3>
