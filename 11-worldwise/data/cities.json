@@ -35,54 +35,6 @@
         "lng": 13.376933665713324
       },
       "id": "98443197"
-    },
-    {
-      "id": "39eb",
-      "cityName": "Valencia",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2025-04-11T19:08:38.792Z",
-      "notes": "",
-      "position": {
-        "lat": "39.45316112807394",
-        "lng": "-0.3900146484375"
-      }
-    },
-    {
-      "id": "5703",
-      "cityName": "Nice",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2025-04-11T19:11:40.182Z",
-      "notes": "Test 2",
-      "position": {
-        "lat": "43.70759350405296",
-        "lng": "7.294921875000001"
-      }
-    },
-    {
-      "id": "b002",
-      "cityName": "London",
-      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
-      "emoji": "🇬🇧",
-      "date": "2025-04-11T19:15:00.030Z",
-      "notes": "qwe",
-      "position": {
-        "lat": "51.467696956223385",
-        "lng": "-0.10986328125000001"
-      }
-    },
-    {
-      "id": "2d41",
-      "cityName": "Amersfoort",
-      "country": "Netherlands (Kingdom of the)",
-      "emoji": "🇳🇱",
-      "date": "2025-04-11T19:16:05.748Z",
-      "notes": "",
-      "position": {
-        "lat": "52.1874047455997",
-        "lng": "5.427246093750001"
-      }
     }
   ]
 }
